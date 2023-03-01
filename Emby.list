@@ -75,6 +75,7 @@ DOMAIN,servers.xeton.dev
 
 # > 流媒体WaveCloud服务器
 DOMAIN,embyserver.ga
+DOMAIN-SUFFIX,emby.pro
 
 # > 流媒体卷毛鼠服务器
 DOMAIN,jmsooo.com
@@ -132,3 +133,5 @@ DOMAIN-SUFFIX,ocd0522.tk
 # > 流媒体Captain-Z服务器
 DOMAIN-SUFFIX,wiri.tk
 DOMAIN-SUFFIX,watchemby.net
+
+

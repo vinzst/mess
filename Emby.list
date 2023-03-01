@@ -129,3 +129,5 @@ DOMAIN,direct.nebula-emby.com
 DOMAIN-SUFFIX,the98.ltd
 DOMAIN-SUFFIX,ocd0522.tk
 
+# > 流媒体Captain-Z服务器
+DOMAIN,emby.wiri.tk
